@@ -32,7 +32,27 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
 }
+
+.dark-purple {
+  color: #6600FF;
+}
+
+.hrf {
+  height: 1.3px;
+  background: rgb(96, 96, 96);
+}
+
+.bgcolor{
+  background-color: #0F1922;
+}
+
+/* .blur {
+  background-color:#1A202C;
+  --tw-bg-opacity:1;
+  backdrop-filter:blur(15px);
+} */
