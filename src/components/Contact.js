@@ -8,7 +8,7 @@ import { HiMail } from 'react-icons/hi'
 
 function Contact() {
   return (
-    <Flex direction="row" fontFamily="Montserrat" bg='blackAlpha.900' h='calc(100vh)'>
+    <Flex bg="blackAlpha.900" direction="row" fontFamily="Montserrat" minH='calc(100vh)'>
 
       <Stack width="50%" px="100px" justifyContent="center">
         <Box className='dark-purple' fontSize="3xl" fontWeight="medium">CONTACT</Box>

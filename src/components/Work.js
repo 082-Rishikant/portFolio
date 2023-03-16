@@ -4,7 +4,7 @@ import '../App.css'
 
 function Work() {
   return (
-    <Box w="100%" bg="white" fontFamily="Montserrat" h='calc(100vh)'>
+    <Box w="100%" bg="white" fontFamily="Montserrat" minH='calc(100vh)'>
       <Center fontSize="4xl" fontWeight="bold" className='dark-purple' pt="80px" pb="0px">Work</Center>
       <Center fontSize="55px" fontWeight="bold" color="black">Explore the Projects</Center>
       {/* <Divider orientation='horizontal' bg='gray' height="1.2px"></Divider> */}

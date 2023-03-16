@@ -6,8 +6,8 @@ import '../App.css'
 
 function Footer() {
   return (
-    <Box fontFamily="Montserrat" bg='blackAlpha.900'>
-      <Box px="95px"><hr className='hrf' /></Box>
+    <Box fontFamily="Montserrat" className='bgcolor'>
+      <Box px="95px"><hr className="hrf" /></Box>
       <Grid pb="60px" mt="40px" mx="95px" templateColumns='repeat(3, 1fr)'>
         <Flex alignItems="center">
           <Text fontWeight="semibold" color="white">Made with love By Rishikant Patel</Text>
