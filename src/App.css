@@ -14,7 +14,7 @@ body{
 .bgcolor{
   /* background-color: #0F1922; */
   /* background-color: #1a202c; */
-  background-color: rgb(0, 0, 0, 0.92);
+  background-color: rgb(0, 0, 0, 0.92) !important;
 }
 
 /* .blur {
